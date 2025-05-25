@@ -1,9 +1,10 @@
 
 
 # **EXP 4: Scenario-Based Report Development Utilizing Diverse Prompting Techniques**
+```
 DATE:23-05-2025
 REGISTER NUMBER :212222040164
-
+```
 ## **Aim:**
 
 To develop a scenario-based report demonstrating the effective use of diverse prompting techniques in interacting with Large Language Models (LLMs) to generate relevant and high-quality content.
@@ -93,4 +94,3 @@ The experiment demonstrated that diverse prompting techniques significantly impa
 
 ---
 
-Would you like me to help you draft detailed prompts and example outputs for each scenario? Or generate a full formatted report?
